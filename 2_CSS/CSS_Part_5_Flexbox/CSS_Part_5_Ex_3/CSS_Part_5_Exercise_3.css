@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+#services {
+    padding: 30px;
+}
+
+#services h1 {
+    color: #042F5F;
+    background-color: #fff;
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+
+#services p {
+    font-size: 2em;
+}
