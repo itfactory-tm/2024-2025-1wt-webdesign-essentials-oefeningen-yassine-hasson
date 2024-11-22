@@ -8,11 +8,11 @@ These are the starting files for **Webdesign Essentials** for 1WT of the Thomas 
 
 > **Note:** This is a **private** repo, containing **individual work**. 
 
-| Student                | Info                                                                   |
-|------------------------|------------------------------------------------------------------------|
-| Name                   | (fill in your first name)                                              |
-| Surname                | (fill in your surname)                                                 |
-| Class                  | 1WT                                                                    |
+| Student                | Info    |
+|------------------------|---------|
+| Name                   | Yassine |
+| Surname                | Hasson  |
+| Class                  | 1WT     |
 
 ## Configuration
 
